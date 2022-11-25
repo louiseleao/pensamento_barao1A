@@ -1,0 +1,18 @@
+body {
+    background-color: #FFB6C1;
+}
+
+h1 {
+    text-align: center;
+    color: hsl(322, 81%, 43%);
+    margin-top: 140px
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    margin-top: -190px;
+}
